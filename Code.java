@@ -5,3 +5,8 @@ line4
 line555
 line6
 looooooonnnnnnnnggggggglllliiiiiinnnnneeeeeee7
+
+void TulostetaanHeiMaailma()
+{
+	System.out.println("Hei maailma!");
+}
