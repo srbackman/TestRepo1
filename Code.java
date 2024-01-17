@@ -6,7 +6,12 @@ line555
 line6
 looooooonnnnnnnnggggggglllliiiiiinnnnneeeeeee7
 
-  void TulostetaanHeiSuomi()
-  {
-    System.out.print("Hei Suomi!");
-  }
+void TulostetaanHeiMaailma()
+{
+	System.out.println("Hei maailma!");
+}
+
+void TulostetaanHeiSuomi()
+{
+  System.out.print("Hei Suomi!");
+}
