@@ -10,3 +10,8 @@ void TulostetaanHeiMaailma()
 {
 	System.out.println("Hei maailma!");
 }
+
+void TulostetaanHeiSuomi()
+{
+  System.out.print("Hei Suomi!");
+}
